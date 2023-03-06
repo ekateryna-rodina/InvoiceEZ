@@ -18,6 +18,7 @@ C#, NUnit
 To run tests, run the following command
 
 ```bash
+    cd InvoiceEZ.Tests/
     dotnet test
 ```
 
